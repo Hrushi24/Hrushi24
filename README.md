@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Hrushi24 (Rushikesh Mahadik)
+# 👋 Hi, I’m @Hrushi24 (Hrushikesh Mahadik)
 
 ## About Me
 - 🎓 I'm a recent **BSc IT graduate** actively looking for opportunities in **Java Spring Boot** and **PHP web development**.
@@ -7,7 +7,8 @@
 
 ## Interests & Projects
 - 👀 I’m deeply interested in **web development**, focusing on **Java Spring Boot** and **PHP**, with recent projects for a **local security solutions provider**.
-- 💼 I’ve completed internships in **cyber security**, **web development**, and **Salesforce frontend development**. These experiences helped me understand both **front-end** and **back-end** development.
+- 💼 I’ve completed internships in **web development** and **Salesforce frontend development** and have conducted **cybersecurity awareness sessions** for college students. These experiences helped me understand both **front-end** and **back-end** development, as well as the importance of cybersecurity best practices.
+
 
 ## Goals & Collaborations
 - 💞️ I’m looking to collaborate on **real-world web development projects** using **Java, PHP**, or **Spring Boot** to build practical experience.
